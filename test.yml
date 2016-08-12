@@ -3,3 +3,5 @@
    tasks:
       - name: test echo
         shell: echo "hello"
+      - name: test ls
+        shell: ls
